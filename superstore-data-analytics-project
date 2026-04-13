@@ -1,7 +1,18 @@
 superstore-data-analytics-project
 │
+├── README.md
 ├── data
+│   ├── Sample-Superstore.csv
+│   └── cleaned_superstore.csv
+│
 ├── excel_analysis
+│   └── superstore_analysis.xlsx
+│
 ├── sql
+│   └── analysis_queries.sql
+│
 ├── dashboard
+│   └── powerbi_dashboard_instructions.txt
+│
 ├── report
+│   └── business_insights.md
