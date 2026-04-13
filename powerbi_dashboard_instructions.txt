@@ -1,0 +1,1 @@
+Import cleaned_superstore.csv into Power BI and create KPI cards and charts.
